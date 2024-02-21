@@ -7,6 +7,7 @@ import numpy as np
 from PIL import Image
 from collections import Counter
 from io import BytesIO
+from flask_cors import CORS
 
 app = Flask(__name__)
 
