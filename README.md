@@ -5,7 +5,7 @@ This project implements a machine learning model for detecting plant species fro
 Predict plant species from an image URL.
 REST API for easy integration.
 # Prerequisites
-Python 3.7+
+## Python 3.7+
 Required libraries:
 ```bash
 
